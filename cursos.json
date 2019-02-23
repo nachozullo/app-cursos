@@ -1,0 +1,108 @@
+{
+	"_id" : ObjectId("5c40c23050381b26dc2e8ff6"),
+	"año" : 2019,
+	"duracion" : "8 semanas",
+	"tema" : "Mobile",
+	"alumnos" : [ 
+		{
+			"nota": 9,
+			"_id" : ObjectId("5c6ee19729c4c3490e9c7a10"),
+			"nombre" : "Ignacio",
+			"apellido" : "Zullo",
+			"dni" : 40972017,
+			"direccion" : "Santos Vega 5721"
+		},
+		{
+			"nota" : 5,
+			"_id" : ObjectId("5c6ee19729c4c3490e9c7a11"),
+			"nombre" : "Leandro",
+			"apellido" : "Szikora",
+			"dni" : 40123456,
+			"direccion" : "Conda 5987"
+		}
+	],
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("5c40c23050381b26dc2e8ff8"),
+	"año" : 2019,
+	"duracion" : "6 semanas",
+	"tema" : "JavaScript",
+	"alumnos" : [ ],
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("5c6ee19729c4c3490e9c7a1f"),
+	"año" : 2019,
+	"duracion" : "6 semanas",
+	"tema" : "Python",
+	"alumnos" : [
+		{
+			"nota" : 7,
+			"_id" : ObjectId("5c6ee19729c4c3490e9c7a21"),
+			"nombre" : "Carlos",
+			"apellido" : "Gomez",
+			"dni" : 18578987,
+			"direccion" : "Pedriel 4589"
+		},
+		{
+			"nota" : 6,
+			"_id" : ObjectId("5c6ee19729c4c3490e9c7a20"),
+			"nombre" : "Juan",
+			"apellido" : "Sosa",
+			"dni" : 30247897,
+			"direccion" : "Ascasubi 547"
+		}
+	],
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("5c70245ca8a46110e1b6db7a"),
+	"año" : 2019,
+	"duracion" : "2 semanas",
+	"tema" : "Java",
+	"alumnos" : [
+		{
+			"nota" : 3,
+			"_id" : ObjectId("5c70245ca8a46110e1b6db7b"),
+			"nombre" : "Juan",
+			"apellido" : "Pintos",
+			"dni" : 15789564,
+			"direccion" : "Pedriel 4589"
+		}
+	],
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("5c702499a8a46110e1b6db7c"),
+	"año" : 2019,
+	"duracion" : "10 semanas",
+	"tema" : "Power BI",
+	"alumnos" : [
+		{
+			"nota" : 2,
+			"_id" : ObjectId("5c702499a8a46110e1b6db7f"),
+			"nombre" : "Leandro",
+			"apellido" : "Szikora",
+			"dni" : 25897564,
+			"direccion" : "Ascasubi 547"
+		},
+		{
+			"nota" : 8,
+			"_id" : ObjectId("5c702499a8a46110e1b6db7e"),
+			"nombre" : "Carlos",
+			"apellido" : "Sosa",
+			"dni" : 30258978,
+			"direccion" : "Alvarez Jonte 8555"
+		},
+		{
+			"nota" : 10,
+			"_id" : ObjectId("5c702499a8a46110e1b6db7d"),
+			"nombre" : "Tiziana",
+			"apellido" : "Benitez",
+			"dni" : 25879654,
+			"direccion" : "Medrano 950"
+		}
+	],
+	"__v" : 0
+}
